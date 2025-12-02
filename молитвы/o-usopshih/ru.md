@@ -1,5 +1,6 @@
 ---
 title: "Поминовение усопших"
+original_title: "Молитва об усопших"
 slug: "o-usopshih"
 categories: ["Об усопших", "Утренние"]
 ---
